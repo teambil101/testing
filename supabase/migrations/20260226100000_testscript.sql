@@ -1,2 +1,2 @@
 ALTER TABLE public.test_branching
-ADD COLUMN email text;
+ADD COLUMN testing text;
